@@ -1,4 +1,6 @@
-# SQL--Lyft Trip Data
+#SQL-Work
+
+*# SQL-Lyft Trip Data
 This is a work on SQL from an online learning platform Codecademy!
 The project goes with the below instructions,
 Suppose you are a Data Analyst at Lyft, a ride-sharing platform. For a project, you were given three tables:
